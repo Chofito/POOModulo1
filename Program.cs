@@ -43,7 +43,7 @@ namespace POOTarea1
             Console.WriteLine("Readed: " + DeLaTierraALaLuna.Readed);
             Console.WriteLine("Time Expended: " + DeLaTierraALaLuna.TimeReaded + "\n");
 
-            Console.WriteLine("Type: " + NationalGeographicMagazine.GetType());
+            Console.WriteLine("Type => " + NationalGeographicMagazine.GetType());
             Console.WriteLine("ID: " + NationalGeographicMagazine.Id);
             Console.WriteLine("Title: " + NationalGeographicMagazine.Title);
             Console.WriteLine("Edition Date: " + NationalGeographicMagazine.EditionDate.ToShortDateString());
